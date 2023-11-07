@@ -750,7 +750,7 @@ footer .footer__bottom p {
     -ms-flex-align: center;
     align-items: center;
     border-radius: 15px;
-    background: #AD8638;
+    background: #0e0d0d;
     -webkit-box-shadow: 0px 0px 58px 3px rgba(173, 134, 56, 0.726);
     box-shadow: 0px 0px 58px 3px rgba(173, 134, 56, 0.726);
     height: 56px;
@@ -1022,7 +1022,7 @@ footer .footer__bottom p {
     }
 
     header .outer__header .header__left>a img {
-        max-width: 150px
+        max-width: 100px
     }
 
     .hero__section .outer__hero .media__ img {
@@ -1055,7 +1055,7 @@ footer .footer__bottom p {
     }
 
     header .outer__header .header__left>a img {
-        max-width: 150px
+        max-width: 100px
     }
 
     header .outer__header .header__left>a {
