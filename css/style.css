@@ -286,7 +286,9 @@ header .outer__header .header__left>a img {
 }
 
 .hero__section .outer__hero .media__ img {
-    max-width: 520px
+    max-width: 520px;
+    border-radius: 15px;
+
 }
 
 .hero__section>img {
